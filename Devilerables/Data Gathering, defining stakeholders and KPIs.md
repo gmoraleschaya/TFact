@@ -20,14 +20,5 @@ https://doi.org/10.7554/eLife.105896.1
 ## KPI
 * Model Accuracy (Prediction Power): The ability of the computational model to correctly predict TF activity based on gene expression data. Metrics such as accuracy, precision, recall, and Chip-seq data will be used to evaluate model performance.
 
-Tool Usability: Feedback from end-users on the ease of use, intuitiveness, and practicality of the software tool. This includes the simplicity of the interface and the clarity of output results.
+* Data Power: Provide metrics to understand whehter the scRNAseq data has sufficient depth to predict TF activity. 
 
-Model Interpretability: How easily users can understand and interpret the relationships between TFs and target genes, as well as the biological relevance of the predictions made by the model.
-
-Data Integration: The tool’s ability to integrate multiple datasets from different sources or experiments, providing robust predictions across various biological conditions.
-
-Time to Insight: The time it takes from uploading raw scRNA-seq data to obtaining actionable results, allowing users to make informed decisions quickly.
-
-Adoption Rate: The number of researchers and institutions that adopt and regularly use the tool for their own gene expression studies.
-
-Research Impact: The extent to which the tool leads to new discoveries or insights into gene regulation and transcription factor activity in published research or ongoing studies.
